@@ -1,0 +1,45 @@
+{
+	"studentName": "Irina Mikhailovskaya",
+	"courseName": "Author's course by Vadim Ksendzov",
+	"skills": [
+		"basic theory",
+		"client-server architecture",
+		"methods of request to the server",
+		"server responses",
+		"structures of requests and responses",
+		"JSON and XML: structure",
+		"testing API",
+		"Removal and reading of logs",
+		"Postman",
+		"Fidler",
+		"VPN",
+		"Dev Tools of web Browsers": [
+			"Google Chrome",
+			"FireFox"
+		],
+		"mobile testing",
+		"feature of iOS, Android, guidelines",
+		"building iOS applications on Xcode",
+		"building Android applications on Android Studio",
+		"Interception of mobile traffic (sniffing) through Charles",
+		"Proxy settings for iOS and Android",
+		"Command line (terminal) Linux Ubuntu",
+		"Simple bash scripting, automation of routine tasks on the server",
+		"Access to remote servers",
+		"SQL Basics": [
+			"Create",
+			"Delete",
+			"Drop",
+			"Insert Into",
+			"Select",
+			"From",
+			"Where",
+			"Join"
+		],
+		"Git",
+		"Jmeter",
+		"Scrum development methodology",
+		"Python. Creation of your own client-server application"
+	}
+
+}
