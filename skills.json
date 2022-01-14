@@ -13,10 +13,10 @@
 		"Postman",
 		"Fidler",
 		"VPN",
-		"Dev Tools of web Browsers": [
+		{"Dev Tools of web Browsers": [
 			"Google Chrome",
 			"FireFox"
-		],
+		]},
 		"mobile testing",
 		"feature of iOS, Android, guidelines",
 		"building iOS applications on Xcode",
@@ -26,7 +26,7 @@
 		"Command line (terminal) Linux Ubuntu",
 		"Simple bash scripting, automation of routine tasks on the server",
 		"Access to remote servers",
-		"SQL Basics": [
+		{"SQL Basics": [
 			"Create",
 			"Delete",
 			"Drop",
@@ -35,9 +35,11 @@
 			"From",
 			"Where",
 			"Join"
-		],
+		]},
 		"Git",
 		"Jmeter",
 		"Scrum development methodology",
 		"Python. Creation of your own client-server application"
+	]
+
 }
